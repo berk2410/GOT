@@ -188,7 +188,13 @@ a{
 
 
 
-
+.all-houses{
+    font-size: 66px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-bottom: -100px;
+}
 
 .lannister-right{
     width: 300px;
@@ -226,4 +232,33 @@ a{
     display: flex;
     height: 120px;
     text-align: center;
+}
+
+
+.stark-header-img{
+    margin-bottom: px;
+}
+
+.stark-text{
+    display: flex;
+    text-align: center;
+    margin-top: -100px;
+}
+
+.stark-middle{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-top: -250px;
+}
+
+.stark-house{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    padding-bottom: 100px;
+    gap: 150px;
 }
