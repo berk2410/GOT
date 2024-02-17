@@ -76,6 +76,7 @@ a{
     margin-left: 32px;
     margin-right: 16px;
     font-size: 17px;
+    text-align: center;
 }
 .container-watch-text{
     display: flex;
@@ -170,9 +171,16 @@ a{
 
 .jon-img{
     display: flex;
-    padding-top: 80px;
     height: 330px;
+    border-radius: 10px;
 }
+.jon-radius{
+    display: flex;
+    align-items: center;
+    padding-top: 80px;
+}
+
+
 
 
 
