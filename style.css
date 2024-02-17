@@ -193,7 +193,22 @@ a{
     color: white;
     display: flex;
     justify-content: center;
+}
+.targaryen-header{
+    font-size: 55px;
+    color: white;
+    display: flex;
+    justify-content: center;
     margin-bottom: -100px;
+    z-index: 2;
+}
+.stark-header{
+    font-size: 55px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-bottom: -70px;
+    z-index: 2;
 }
 
 .lannister-right{
